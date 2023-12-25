@@ -1,0 +1,17 @@
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.AssemblyInfoInputs.cache
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.AssemblyInfo.cs
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.csproj.CoreCompileInputs.cache
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.csproj.AssemblyReference.cache
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\10 практос.exe
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\10 практос.deps.json
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\10 практос.runtimeconfig.json
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\10 практос.dll
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\10 практос.pdb
+C:\Users\ekono\source\repos\10 практос\10 практос\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.csproj.CopyComplete
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.dll
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\refint\10 практос.dll
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.pdb
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\10 практос.genruntimeconfig.cache
+C:\Users\ekono\source\repos\10 практос\10 практос\obj\Debug\net6.0\ref\10 практос.dll
